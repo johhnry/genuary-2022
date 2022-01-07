@@ -8,6 +8,18 @@ This year I decided to use the [Nannou](https://nannou.cc) framework using Rust 
 
 You can click on any gif below to see the source file, enjoy!
 
+## Setup
+
+To setup the project you need to install [Rust](https://www.rust-lang.org/learn/get-started) and clone the project:
+
+```bash
+$ git clone https://github.com/johhnry/genuary-2022
+$ cd genuary-2022
+$ cargo run --bin day_x
+```
+
+(`day_x` is the number of the sketch in the cargo workspace)
+
 ## 2022 edition
 
 | [![](./src/day_1/day_1.gif)](./src/day_1/src/main.rs)<br><center>Draw 10,000 of something.</center> |     |     |
