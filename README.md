@@ -24,7 +24,7 @@ $ cargo run --bin day_x
 
 | [![](./src/day_1/day_1.gif)](./src/day_1/src/main.rs)<br><center>Draw 10,000 of something.</center> | [![](./src/day_2/day_2.gif)](./src/day_2/src/main.rs)<br/><center>Dithering.</center> | [![](./src/day_3/day_3.gif)](./src/day_3/src/main.rs)<br/><center>Space.</center> |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-|                                                              |                                                              |                                                              |
+| [![](./src/day_4/day_4.gif)](./src/day_4/src/main.rs)<br/><center>The next next Fidenza.</center> |                                                              |                                                              |
 |                                                              |                                                              |                                                              |
 |                                                              |                                                              |                                                              |
 |                                                              |                                                              |                                                              |
